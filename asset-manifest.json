@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/modern-react-course/forms-and-events/static/css/main.e362c6fb.css",
+    "main.js": "/modern-react-course/forms-and-events/static/js/main.e8ba9491.js",
+    "static/js/787.8a2f5b22.chunk.js": "/modern-react-course/forms-and-events/static/js/787.8a2f5b22.chunk.js",
+    "index.html": "/modern-react-course/forms-and-events/index.html",
+    "main.e362c6fb.css.map": "/modern-react-course/forms-and-events/static/css/main.e362c6fb.css.map",
+    "main.e8ba9491.js.map": "/modern-react-course/forms-and-events/static/js/main.e8ba9491.js.map",
+    "787.8a2f5b22.chunk.js.map": "/modern-react-course/forms-and-events/static/js/787.8a2f5b22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e362c6fb.css",
+    "static/js/main.e8ba9491.js"
+  ]
+}
