@@ -18,7 +18,6 @@ const SearchBar = ({onSearchSubmit}) => {
                     <input type="text" value={term} onChange={onInputChange}/>
                 </div>
             </form>
-            {term}
         </div>);
 }
 
